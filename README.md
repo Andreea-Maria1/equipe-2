@@ -42,7 +42,7 @@ Une démonstration des outils et technologies mis à disposition, avec un focus 
 | 🔴**Innovation**                           | /25     |
 | Conception originale                  | 10     |
 | Solution créative à un problème important | 5      |
-| Compacité de la structure du robot    | 5      |
+| Complexité de la structure du robot    | 5      |
 | 🔴**Esthétique du design**                  | /25     |
 | Présentation visuelle du robot        | 10     |
 | Cohérence entre l'apparence et la fonction | 5      |
@@ -60,7 +60,7 @@ Une démonstration des outils et technologies mis à disposition, avec un focus 
 |---------------------------------------|--------|
 | 🔴**Impact social et utilité**              | /25     |
 | Répond à un besoin réel et important  | 10     |
-| Contribue à la solution               | 5      |
+| Contribue à la solution               | 10     |
 | Économique et abordable               | 5      |
 | 🔴**Matériaux**                             | /5      |
 | Matériaux courants et sécuritaires    | 5      |
@@ -85,6 +85,3 @@ Une démonstration des outils et technologies mis à disposition, avec un focus 
 Un immense merci à Creaform pour son soutien et sa contribution à StarHACK 2025. Leur engagement nous permet de proposer un hackathon enrichissant et de qualité.
 
 📢 Préparez-vous à concevoir LE robot dans cette apocalypse ! 🚀🔥
-
-
-
